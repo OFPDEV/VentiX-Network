@@ -1,2 +1,2 @@
-# VentiX-Network
-New Practice Server SoonTM, IP: ventix.me
+# VentiX Network
+VentiX Network is coming soon!  Please check later for a release date.  Thank you!
